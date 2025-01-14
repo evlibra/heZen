@@ -14,16 +14,16 @@
           <mxGeometry x="300" y="160" width="320" height="320" as="geometry" />
         </mxCell>
         <mxCell id="iv6oOa5ACZCAxFHoa43c-7" value="Food" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/ionicons-outline-vol-2/512/nutrition-outline-128.png" vertex="1" parent="1">
-          <mxGeometry x="270" y="451" width="58" height="58" as="geometry" />
+          <mxGeometry x="304" y="451" width="54" height="54" as="geometry" />
         </mxCell>
         <mxCell id="iv6oOa5ACZCAxFHoa43c-9" value="Mind" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/boxicons-regular-vol-1/24/bx-brain-128.png" vertex="1" parent="1">
-          <mxGeometry x="433" y="230" width="54" height="54" as="geometry" />
+          <mxGeometry x="433" y="266" width="54" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="iv6oOa5ACZCAxFHoa43c-11" value="Energy" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;fillColor=#000000;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;shape=mxgraph.gcp2.a7_power" vertex="1" parent="1">
-          <mxGeometry x="590" y="455" width="50" height="50" as="geometry" />
+        <mxCell id="iv6oOa5ACZCAxFHoa43c-12" value="Body" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/dompicon-glyph-fitness-diet/256/meditation-yoga-retreat-fitness-diet-128.png" vertex="1" parent="1">
+          <mxGeometry x="433" y="396" width="55" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="iv6oOa5ACZCAxFHoa43c-12" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/dompicon-glyph-fitness-diet/256/meditation-yoga-retreat-fitness-diet-128.png" vertex="1" parent="1">
-          <mxGeometry x="418" y="380" width="84" height="84" as="geometry" />
+        <mxCell id="iv6oOa5ACZCAxFHoa43c-14" value="Energy" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/bootstrap-vol-3/16/lightning-charge-128.png" vertex="1" parent="1">
+          <mxGeometry x="566" y="453" width="54" height="54" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
