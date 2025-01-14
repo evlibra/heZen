@@ -19,7 +19,7 @@
         <mxCell id="iv6oOa5ACZCAxFHoa43c-9" value="Mind" style="shape=image;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/boxicons-regular-vol-1/24/bx-brain-128.png" vertex="1" parent="1">
           <mxGeometry x="433" y="266" width="54" height="54" as="geometry" />
         </mxCell>
-        <UserObject label="Body" link="https://hezen.us/healthclub-masterclass/" linkTarget="_blank" id="iv6oOa5ACZCAxFHoa43c-12">
+        <UserObject label="Body" link="https://hezen.us/body/" linkTarget="_blank" id="iv6oOa5ACZCAxFHoa43c-12">
           <mxCell style="shape=image;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/dompicon-glyph-fitness-diet/256/meditation-yoga-retreat-fitness-diet-128.png;fontColor=#0000FF;" vertex="1" parent="1">
             <mxGeometry x="433" y="396" width="55" height="55" as="geometry" />
           </mxCell>
